@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukesh.
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently Big Data
+- 🌱 I’m currently working as Big Data Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
